@@ -1,0 +1,28 @@
+{
+	"dinosaurs": [
+		{
+			"name": "Rex",
+			"type": "T-Rex",
+			"food": "smaller dinosuars",
+			"url": "http://www.squishable.com/mm5/graphics/00000001/t-rex.jpg"
+		},
+		{
+			"name": "The Steg-meister",
+			"type": "Stegosaurus",
+			"food": "leaves",
+			"url": "http://cdn3.volusion.com/9nxdj.fchy5/v/vspfiles/photos/WA-CCR-1700ST-2.jpg?1398178131"
+		},
+		{
+			"name": "Billy",
+			"type": "Velociraptor",
+			"food": "human flesh",
+			"url": "https://sc01.alicdn.com/kf/HTB1YbKEKVXXXXbyaXXXq6xXFXXXs/Plush-Velociraptor-Stuffed-Conservation-Critter-By-Wildlife.jpg"
+		},
+		{
+			"name": "Oliver",
+			"type": "Triceratops",
+			"food": "strict vegan diet",
+			"url": "http://cdn3.volusion.com/9nxdj.fchy5/v/vspfiles/photos/WR-15502-2.jpg?1422626970"
+		}
+	]
+}
